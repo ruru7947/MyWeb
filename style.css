@@ -274,6 +274,10 @@ hr.bar {
     width: 80%;
   }
 
+  hr.bar {
+  width: 20%;
+}
+
 
 }
 
